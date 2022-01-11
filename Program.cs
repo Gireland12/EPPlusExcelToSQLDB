@@ -52,6 +52,7 @@ namespace EPPlusExcelToSQLDB
                         });
                     }
 
+
                     for (int k = 0; k < myList.Count; k++)
                     {
 
