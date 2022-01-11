@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EPPlusExcelToSQLDB": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\georg\\Documents\\CSharp\\EPPlusExcelToSQLDB"
+    }
+  }
+}
