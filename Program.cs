@@ -19,7 +19,7 @@ namespace EPPlusExcelToSQLDB
 
             CreateDatabase();
 
-            ReadCsvFile();
+            ReadSpreadsheet();
 
             PrintDataBase();
         }
@@ -27,7 +27,7 @@ namespace EPPlusExcelToSQLDB
 
 
 
-        private static void ReadCsvFile()
+        private static void ReadSpreadsheet()
         {
             string dbFile = "URI=FILE:TempDatabase.db";
 
